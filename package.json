@@ -1,0 +1,17 @@
+{
+  "name": "simple-web",
+  "version": "1.0.0",
+  "description": "simple web app for learning docker",
+  "main": "index.js",
+  "author": "vinhlee95",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.10"
+  }
+}
